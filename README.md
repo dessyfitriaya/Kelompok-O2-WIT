@@ -1,2 +1,2 @@
-# Kelompok-O2-WIT
-Project Kelompok O2 Women In Tech (WIT) Digitalent
+# ecommerce-django-project
+Belajar membuat ecommerce website dengan menggunaakan django dan python
