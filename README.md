@@ -1,2 +1,2 @@
-# ecommerce-django-project
-Belajar membuat ecommerce website dengan menggunaakan django dan python
+# Kelompok O2 WIT
+Draft Final Project Kelompok O2
